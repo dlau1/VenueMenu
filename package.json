@@ -1,0 +1,8 @@
+{
+  "name": "VenueMenu",
+  "version": "0.0.1",
+  "author": "Wolverine",
+  "dependencies": {
+    "mysql": "2.x.x"
+  }
+}
